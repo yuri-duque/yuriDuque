@@ -42,7 +42,7 @@ These are some of the technologies and tools that I work with:
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062ad?style=flat-square&logo=Azure-Functions&logoColor=white)
 
 
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
