@@ -16,13 +16,13 @@
 These are some of the technologies and tools that I work with:
 
 
-![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-&logo=C%20sharp)
+![C#](https://img.shields.io/badge/-C#-239120?style=flat-&logo=C%20sharp)
 ![.Net](https://img.shields.io/badge/-.Net-5c2d91?style=flat-square&logo=.net)
 ![.Net](https://img.shields.io/badge/-.Net%20Core-5c2d91?style=flat-square&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 
