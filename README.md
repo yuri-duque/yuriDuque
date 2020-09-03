@@ -16,7 +16,6 @@
 These are some of the technologies and tools that I work with:
 
 
-![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-&logo=C%20sharp)
 ![.Net](https://img.shields.io/badge/-.Net-5c2d91?style=flat-square&logo=.net)
 ![.Net](https://img.shields.io/badge/-.Net%20Core-5c2d91?style=flat-square&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
