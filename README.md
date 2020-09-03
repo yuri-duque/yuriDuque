@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋
 
 - 😄 I’m Yuri Thielmann duque
@@ -37,9 +38,11 @@ These are some of the technologies and tools that I work with:
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=GitHub-Actions&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062ad?style=flat-square&logo=Azure-Functions&logoColor=white)
 
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
