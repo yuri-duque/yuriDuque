@@ -9,7 +9,7 @@
 
 ![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=yuriDuque&show_icons=true)
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
+[![Linkedin: Yuri Duque](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-duque/)](https://www.linkedin.com/in/yuri-duque/)
 
 ## ⚡ Technologies
 
