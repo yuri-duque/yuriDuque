@@ -9,6 +9,7 @@
 
 
 ![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=yuriDuque&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuriDuque)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin: Yuri Duque](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-duque/)](https://www.linkedin.com/in/yuri-duque/)
 
