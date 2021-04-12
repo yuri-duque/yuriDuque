@@ -8,8 +8,9 @@
 - 📫 How to reach me: yuri.thielmann83@gmail.com
 
 
-![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=yuriDuque&show_icons=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuriDuque)](https://github.com/anuraghazra/github-readme-stats)
+[![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=yuriDuque&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Scotts's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuriDuque&layout=compact&hide=PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin: Yuri Duque](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-duque/)](https://www.linkedin.com/in/yuri-duque/)
 
@@ -50,6 +51,3 @@ These are some of the technologies and tools that I work with:
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-
