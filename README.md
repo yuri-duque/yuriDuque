@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 - 😄 I’m Yuri Thielmann duque
-- 🔭 I’m currently working on junior developer at the e-auditoria
-- 🌱 I’m currently learning docker with .net core
+- 🔭 I’m currently working on software engineer at the ciandt
+- 🌱 I’m currently learning node.js and react
 - 📫 How to reach me: yuri.thielmann83@gmail.com
 
 
